@@ -103,5 +103,5 @@ To enable evaluation after training an agent/agent population simply set ```eval
 ```
 python main.py model=population eval=True #Plots the crossplay heatmap matrix
 
-python main.py model={hipt/fcp} layout={layout_name} layout.partner_pop_path={path_to_sp_population} eval=True #Evaulates the HiPT/FCP agent on a SP Population and generates gifs of the gameplay.
+python main.py model={IAD/hipt/fcp} layout={layout_name} layout.partner_pop_path={path_to_sp_population} eval=True #Evaulates the IAD/HiPT/FCP agent on a SP Population and generates gifs of the gameplay.
 ```
