@@ -9,6 +9,7 @@ Below are visualizations showing **partner-skill evolution** during evaluation i
   ![Cramped Room](plots/cramped_room_skill_evolution.png)
 
 **Gameplay GIFs for all partners (0–15)**
+
 In the following GIFs, the **blue agent** acts as the partner from the self-play population, while the **green-hat player** represents the AI agent being evaluated. Each GIF illustrates how the AI agent adapts its behavior and skill selection to coordinate with a specific partner.
 | Partner 0 | Partner 1 | Partner 2 | Partner 3 |
 |-----------|-----------|-----------|-----------|
@@ -32,6 +33,7 @@ In the following GIFs, the **blue agent** acts as the partner from the self-play
   ![Forced Coordination](plots/forced_coordination_skill_evolution.png)
 
 **Gameplay GIFs for all partners (0–15)**
+
 In the following GIFs, the **blue agent** acts as the partner from the self-play population, while the **green-hat player** represents the AI agent being evaluated. Each GIF illustrates how the AI agent adapts its behavior and skill selection to coordinate with a specific partner.
 | Partner 0 | Partner 1 | Partner 2 | Partner 3 |
 |-----------|-----------|-----------|-----------|
