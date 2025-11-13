@@ -8,14 +8,47 @@ Below are visualizations showing **partner-skill evolution** during evaluation i
 - **Cramped Room Evaluation**  
   ![Cramped Room](plots/cramped_room_skill_evolution.png)
 
-  - **Gameplay GIF**  
-  ![Cramped Room Gameplay](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent0.gif)
+**Gameplay GIFs for all partners (0–15)**
 
+| Partner 0 | Partner 1 | Partner 2 | Partner 3 |
+|-----------|-----------|-----------|-----------|
+| ![P0](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent0.gif) | ![P1](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent1.gif) | ![P2](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent2.gif) | ![P3](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent3.gif) |
+
+| Partner 4 | Partner 5 | Partner 6 | Partner 7 |
+|-----------|-----------|-----------|-----------|
+| ![P4](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent4.gif) | ![P5](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent5.gif) | ![P6](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent6.gif) | ![P7](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent7.gif) |
+
+| Partner 8 | Partner 9 | Partner 10 | Partner 11 |
+|-----------|-----------|------------|------------|
+| ![P8](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent8.gif) | ![P9](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent9.gif) | ![P10](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent10.gif) | ![P11](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent11.gif) |
+
+| Partner 12 | Partner 13 | Partner 14 | Partner 15 |
+|------------|------------|------------|------------|
+| ![P12](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent12.gif) | ![P13](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent13.gif) | ![P14](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent14.gif) | ![P15](Results/10M/IAD/cramped_room/visualizations/cramped_room_blue_riayn_green_spagent15.gif) |
+
+---
 
 - **Forced Coordination Evaluation**  
   ![Forced Coordination](plots/forced_coordination_skill_evolution.png)
 
-  ![Forced Coordination Gameplay](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent0.gif)
+**Gameplay GIFs for all partners (0–15)**
+
+| Partner 0 | Partner 1 | Partner 2 | Partner 3 |
+|-----------|-----------|-----------|-----------|
+| ![P0](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent0.gif) | ![P1](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent1.gif) | ![P2](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent2.gif) | ![P3](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent3.gif) |
+
+| Partner 4 | Partner 5 | Partner 6 | Partner 7 |
+|-----------|-----------|-----------|-----------|
+| ![P4](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent4.gif) | ![P5](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent5.gif) | ![P6](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent6.gif) | ![P7](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent7.gif) |
+
+| Partner 8 | Partner 9 | Partner 10 | Partner 11 |
+|-----------|-----------|------------|------------|
+| ![P8](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent8.gif) | ![P9](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent9.gif) | ![P10](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent10.gif) | ![P11](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent11.gif) |
+
+| Partner 12 | Partner 13 | Partner 14 | Partner 15 |
+|------------|------------|------------|------------|
+| ![P12](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent12.gif) | ![P13](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent13.gif) | ![P14](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent14.gif) | ![P15](Results/10M/IAD/forced_coordination/visualizations/forced_coordination_blue_riayn_green_spagent15.gif) |
+
 
 These visualizations illustrate how different partners evolve **distinct skill patterns** over time while maintaining dominant skills, highlighting **human-AI coordination dynamics**.
 
